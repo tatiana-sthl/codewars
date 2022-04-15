@@ -1,3 +1,3 @@
-# js-asjs2n
+# Code Wars
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-asjs2n)
+## Training to learn to write pseudocode
