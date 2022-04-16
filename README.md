@@ -1,3 +1,3 @@
 # Code Wars
 
-## Training to learn to write pseudocode and clean code
+## Training to learn to write pseudocode & clean code
