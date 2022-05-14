@@ -45,3 +45,24 @@
 | 6 kyu      | Split strings         | [index.js](./6%20kyu/Split%20strings/index.js)             |
 | 6 kyu      | Tribonacci sequence   | [index.js](./6%20kyu/Tribonacci%20sequence/index.js)       |
 | 6 kyu      | Your order please     | [index.js](./6%20kyu/Your%20order%20please/index.js)       |
+
+### JavaScript - 7 kyu
+
+| Difficulty | Kata                  | Solution                                                   |
+| ---------- | --------------------- | ---------------------------------------------------------- |
+| 7 kyu      | Complementary DNA | [index.js](./7%20kyu/Complementary%20DNA/index.js) |
+| 7 kyu      | Disemvowel Trolls | [index.js](./7%20kyu/Disemvowel%20Trolls/index.js) |
+| 7 kyu      | Friend or foe | [index.js](./7%20kyu/Friend%20or%20foe/index.js) |
+
+
+### JavaScript - 8 kyu
+
+| Difficulty | Kata                  | Solution                                                   |
+| ---------- | --------------------- | ---------------------------------------------------------- |
+| 8 kyu      | Create a phone number | [index.js](./8%20kyu/Create%20a%20phone%20number/index.js) |
+| 8 kyu      | Create a phone number | [index.js](./8%20kyu/Create%20a%20phone%20number/index.js) |
+| 8 kyu      | Create a phone number | [index.js](./8%20kyu/Create%20a%20phone%20number/index.js) |
+| 8 kyu      | Create a phone number | [index.js](./8%20kyu/Create%20a%20phone%20number/index.js) |
+| 8 kyu      | Create a phone number | [index.js](./8%20kyu/Create%20a%20phone%20number/index.js) |
+| 8 kyu      | Create a phone number | [index.js](./8%20kyu/Create%20a%20phone%20number/index.js) |
+| 8 kyu      | Create a phone number | [index.js](./8%20kyu/Create%20a%20phone%20number/index.js) |
