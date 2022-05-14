@@ -40,7 +40,7 @@
 
 | Difficulty | Kata                  | Solution                                                   |
 | ---------- | --------------------- | ---------------------------------------------------------- |
-| 6 kyu      | Create a phone number | [index.js](./6%20kyu/Create%20a%20phone%20number/index.js) |
+| 6 kyu      | Create a phone number | [index.js](./6kyu/Create%20a%20phone%20number/index.js) |
 | 6 kyu      | Decode the code morse | [index.js](./6%20kyu/Decode%20the%20code%20morse/index.js) |
 | 6 kyu      | Split strings         | [index.js](./6%20kyu/Split%20strings/index.js)             |
 | 6 kyu      | Tribonacci sequence   | [index.js](./6%20kyu/Tribonacci%20sequence/index.js)       |
