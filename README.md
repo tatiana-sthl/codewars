@@ -30,14 +30,14 @@
 
 | Difficulty | Kata                                                                                         | Solution                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 5 kyu      | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) | [extract-the-domain-name-from-a-url.js](./JavaScript/extract-the-domain-name-from-a-url.js) |
-| 5 kyu      | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)                 | [string-increment.js](./JavaScript/string-increment.js)                                     |
-| 5 kyu      | [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)                | [human-readable.js](./JavaScript/human-readable.js)                                         |
-| 5 kyu      | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)            | [moving-zeros-to-the-end.js](./JavaScript/moving-zeros-to-the-end.js)                       |
-| 5 kyu      | [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)          | [regex-password-validation.js](./JavaScript/regex-password-validation.js)                   |
-| 5 kyu      | [count '9's from 1 to n](https://www.codewars.com/kata/55143152820d22cdf00001bb)             | [count-9s-from-1-to-n.js](./JavaScript/count-9s-from-1-to-n.js)                             |
-| 5 kyu      | [Beeramid](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1)                           | [beeramid.js](./JavaScript/beeramid.js)                                                     |
-| 5 kyu      | [Find the unique string](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)             | [find-the-unique-string.js](./JavaScript/find-the-unique-string.js)                         |
+| 5 kyu      | Directions reduction | [index.js](./4%20kyu/Directions%20reduction/index.js) |
+| 5 kyu      | Moving zero to the end | [index.js](./4%20kyu/Moving%20zero%20to%20the%20end) |
+| 5 kyu      | Pete the baker | [index.js](./4%20kyu/Pete%20the%20baker/index.js) |
+| 5 kyu      | Product of concecutive Fib numbers | [index.js](./4%20kyu/Product%20of%20consecutive%20Fib%20numbers/index.js) |
+| 5 kyu      | Simple pig latin | [index.js](./4%20kyu/5%20kyu/Simple%20pig%20latin) |
+| 5 kyu      | Valid parentheses | [index.js](./4%20kyu/Valid%20parentheses/index.js) |
+
+
 
 ### JavaScript - 6 kyu
 
