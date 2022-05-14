@@ -19,9 +19,9 @@
 
 ### JavaScript - 4 kyu
 
-| Difficulty | Kata               | Solution                                                                      |
-| ---------- | ------------------ | ----------------------------------------------------------------------------- |
-| 4 kyu      | Pyramid slide down | [index.js](./js_codewars/blob/master/4%20kyu/Pyramid%20slide%20down/index.js) |
+| Difficulty | Kata               | Solution                                              |
+| ---------- | ------------------ | ----------------------------------------------------- |
+| 4 kyu      | Pyramid slide down | [index.js](./4%20kyu/Pyramid%20slide%20down/index.js) |
 
 ### JavaScript - 5 kyu
 
