@@ -19,13 +19,14 @@
 
 ### JavaScript - 4 kyu
 
-| Difficulty | Kata                | Solution                                              |
-| ---------- | ------------------- | ----------------------------------------------------- |
-| 4 kyu      | Befunge Interpreter | [index.js](./4%20kyu/Befunge%20Interpreter/index.js)         |
-| 4 kyu      | ParseInt() reloaded | [index.js](./4%20kyu/ParseInt()%20reloaded/index.js)         |
-| 4 kyu      | Pyramid slide down  | [index.js](./4%20kyu/Pyramid%20slide%20down/index.js) |
-| 4 kyu      | Remove zeros        | [index.js](./4%20kyu/Remove%20zeros/index.js)         |
-| 4 kyu      | Sum of intervals    | [index.js](./4%20kyu/Sum%20of%20intervals/index.js)   |
+| Difficulty | Kata                | Solution                                               |
+| ---------- | ------------------- | ------------------------------------------------------ |
+| 4 kyu      | Befunge Interpreter | [index.js](./4%20kyu/Befunge%20Interpreter/index.js)   |
+| 4 kyu      | Next smaller number | [index.js](./4%20kyu/Next%20smaller%20number/index.js) |
+| 4 kyu      | ParseInt() reloaded | [index.js](<./4%20kyu/ParseInt()%20reloaded/index.js>) |
+| 4 kyu      | Pyramid slide down  | [index.js](./4%20kyu/Pyramid%20slide%20down/index.js)  |
+| 4 kyu      | Remove zeros        | [index.js](./4%20kyu/Remove%20zeros/index.js)          |
+| 4 kyu      | Sum of intervals    | [index.js](./4%20kyu/Sum%20of%20intervals/index.js)    |
 
 ### JavaScript - 5 kyu
 
