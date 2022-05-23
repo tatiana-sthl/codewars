@@ -2,20 +2,20 @@
 
 ## Solutions in JavaScript Kata
 
-- [JavaScript - 1 kyu](#javascript---6-kyu)
-- [JavaScript - 2 kyu](#javascript---6-kyu)
+- [JavaScript - 1 kyu](#javascript---1-kyu)
+- [JavaScript - 2 kyu](#javascript---2-kyu)
 - [JavaScript - 3 kyu](#javascript---3-kyu)
 - [JavaScript - 4 kyu](#javascript---4-kyu)
 - [JavaScript - 5 kyu](#javascript---5-kyu)
 - [JavaScript - 6 kyu](#javascript---6-kyu)
-- [JavaScript - 7 kyu](#javascript---6-kyu)
-- [JavaScript - 8 kyu](#javascript---6-kyu)
+- [JavaScript - 7 kyu](#javascript---7-kyu)
+- [JavaScript - 8 kyu](#javascript---8-kyu)
 
 ### JavaScript - 3 kyu
 
-| Difficulty | Kata | Solution |
-| ---------- | ---- | -------- |
-| 3 kyu      |      |          |
+| Difficulty | Kata          | Solution                                         |
+| ---------- | ------------- | ------------------------------------------------ |
+| 3 kyu      | Make a spiral | [index.js](./4%20kyu/Make%20a%20spiral/index.js) |
 
 ### JavaScript - 4 kyu
 
