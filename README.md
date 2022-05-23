@@ -15,7 +15,7 @@
 
 | Difficulty | Kata          | Solution                                         |
 | ---------- | ------------- | ------------------------------------------------ |
-| 3 kyu      | Make a spiral | [index.js](./4%20kyu/Make%20a%20spiral/index.js) |
+| 3 kyu      | Make a spiral | [index.js](./3%20kyu/Make%20a%20spiral/index.js) |
 
 ### JavaScript - 4 kyu
 
