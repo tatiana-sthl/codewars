@@ -1,0 +1,7 @@
+https://github.com/Automedon/Codewars
+https://github.com/Ventrosky/code-wars
+https://github.com/elendil7/codewars-solutions/tree/master/JavaScript
+https://github.com/jpacsai/codeWars
+https://github.com/Nithishkumar2027/code-katas
+https://github.com/Eakz/HR_CW/tree/master/CodeWars/JS
+https://github.com/brudolce/codewars/tree/master/3-kyu

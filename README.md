@@ -13,9 +13,10 @@
 
 ### JavaScript - 3 kyu
 
-| Difficulty | Kata          | Solution                                         |
-| ---------- | ------------- | ------------------------------------------------ |
-| 3 kyu      | Make a spiral | [index.js](./3%20kyu/Make%20a%20spiral/index.js) |
+| Difficulty | Kata                    | Solution                                                   |
+| ---------- | ----------------------- | ---------------------------------------------------------- |
+| 3 kyu      | Make a spiral           | [index.js](./3%20kyu/Make%20a%20spiral/index.js)           |
+| 3 kyu      | Screen locking patterns | [index.js](./3%20kyu/Screen%20locking%20patterns/index.js) |
 
 ### JavaScript - 4 kyu
 
