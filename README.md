@@ -18,7 +18,7 @@
 | 3 kyu      | Make a spiral                  | [index.js](./3%20kyu/Make%20a%20spiral/index.js)                      |
 | 3 kyu      | Screen locking patterns        | [index.js](./3%20kyu/Screen%20locking%20patterns/index.js)            |
 | 3 kyu      | Help the general decode secret | [index.js](./3%20kyu/Help%20the%20general%20decode%20secret/index.js) |
-| 3 kyu      | One line task: check range     | [index.js](./3%20kyu/One%20line%20task:%20check%20range/index.js)     |
+| 3 kyu      | One line task: check range     | [index.js](./3%20kyu/Check%20range%20code/index.js)     |
 
 ### JavaScript - 4 kyu
 
